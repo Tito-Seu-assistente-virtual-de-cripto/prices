@@ -1,2 +1,2 @@
 # prices
-This project will responsiblw
+This project will be responsible for the prices of the cryptocurrencies
