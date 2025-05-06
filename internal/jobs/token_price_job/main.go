@@ -8,5 +8,4 @@ func NewTokensPriceJob() *TokenPriceJob {
 }
 
 func (j *TokenPriceJob) Start() {
-
 }
